@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34714.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpotifyExplorer", "SpotifyConcertExplorer\SpotifyExplorer.csproj", "{41222CAD-26DB-4D1B-B9FE-1AF591C26204}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{41222CAD-26DB-4D1B-B9FE-1AF591C26204}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41222CAD-26DB-4D1B-B9FE-1AF591C26204}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41222CAD-26DB-4D1B-B9FE-1AF591C26204}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41222CAD-26DB-4D1B-B9FE-1AF591C26204}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D0C871E4-EDDC-4070-B514-E3D67CEDDDB2}
+	EndGlobalSection
+EndGlobal
